@@ -1,7 +1,7 @@
-Developing-Data-Products-Assignment
+Developing Data Products Assignment
 ===================================
 
-Coursera Course: Developing Data Products
+Coursera: Developing Data Products
 
 Assignment Submission Files
 - [ui.R](https://github.com/dimacho/ddp_assessment1/blob/master/ui.R)
