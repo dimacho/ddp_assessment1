@@ -8,7 +8,7 @@ title       : The Central Limit Theorem (CLT) Demonstration
 # Help:
 *****************************
 
-### Application Input (Left Sidebar)
+### Application Input
 
 - Select the type of distribution in which the samples are generated from
 - The size of each sample (n)
