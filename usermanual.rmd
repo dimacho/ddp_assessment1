@@ -10,6 +10,8 @@ title       : The Central Limit Theorem (CLT) Demonstration
 
 ### Application Input
 
+To use this application, follow these simple steps:
+
 - Select the type of distribution in which the samples are generated from
 - The size of each sample (n)
 - The number of samples to generate (m)
